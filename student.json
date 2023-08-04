@@ -1,0 +1,17 @@
+[
+    {
+        "fullName": "Alex Chow",
+        "program": "CMPG",
+        "Course": "Java"
+    },
+    {
+        "fullName": "Sam Simpson",
+        "program": "CMPG",
+        "Course": "Linux"
+    },
+    {
+        "fullName": "Sally Grayson",
+        "program": "CMPG",
+        "Course": "PHP"
+    }
+]
