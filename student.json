@@ -30,8 +30,9 @@
         "image": "https://images.unsplash.com/photo-1592089416462-2b0cb7da8379?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cGFycm90fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
     },
     {
+       {
         "id": 6,
-        "name": "Wolf",
+        "name": "wolf",
         "description": "The wolf is a large carnivorous mammal belonging to the Canidae family. Native to various parts of North America, Europe, Asia, and North Africa, wolves are known for their distinct howls, keen senses, and pack behavior. They have a social structure, often living and hunting in packs led by an alpha pair. These packs work together to hunt prey, which can range from small animals like rodents and rabbits to large ungulates like elk and deer. Wolves have played a significant role in human folklore, often symbolized as both noble and fearsome creatures. They are a keystone species, meaning they play a crucial role in maintaining the health and balance of their ecosystem. Over the years, habitat loss, hunting, and conflict with humans have led to their decline in many areas, prompting conservation efforts to protect and reintroduce them to their native territories.",
         "image": "https://images.unsplash.com/photo-1588167056547-c183313da47c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8d29sZnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
     }
